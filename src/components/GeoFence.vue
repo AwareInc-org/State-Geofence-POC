@@ -1,4 +1,4 @@
-<--HTML Section--!>
+//HTML Section
 //Using PrimeVue for buttons and text fields
 <template>
   <div>
@@ -15,7 +15,7 @@
   </div>
 </template>
 
-<--Script Section--!>
+//Script Section
 
 <script>
 
