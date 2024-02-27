@@ -6,7 +6,6 @@ import 'primeicons/primeicons.css';
 
 const app = createApp(App);
 
-// If you want to set global configurations (similar to Vue.config in Vue 2)
 app.config.productionTip = false;
 
 app.mount('#app');
